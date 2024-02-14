@@ -49,6 +49,9 @@ static void reverseInPlace(int[] arr) {
 
 `grep -r`
 
+```grep -r ".txt" technical/biomed```
+
+```grep -r ".txt" technical/911report```
 
 `grep -n`
 
@@ -57,4 +60,4 @@ static void reverseInPlace(int[] arr) {
 `grep -E`
 
 # Citations
-
+![Image](W24_LR3_4.png)
